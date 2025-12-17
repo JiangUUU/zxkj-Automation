@@ -1,2 +1,2 @@
-# zxkj-Automation
-python script of processing data 
+# zxkj-Automation for Shanghai Zhixin Information Technology Co., Ltd.
+This Python script is an intelligent sales order and hardware configuration parsing system designed for IT hardware logistics, warehouse management, and sales operations. It automatically extracts, normalizes, and processes unstructured Chinese text describing sales orders, device configurations, dismantling/adding components, and logistics requirements, and then generates structured data and printable logistics documents.
